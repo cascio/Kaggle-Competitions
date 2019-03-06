@@ -1,9 +1,8 @@
 # Kaggle Competition Submissions
 
-<p align="center">
 An archival repository for Kaggle competition submissions created by [Michael Cascio](https://www.kaggle.com/cascio).
-</p>
 
+## Submissions
 - [Ames, Iowa Housing Price Prediction Competition](https://github.com/cascio/Kaggle-Competitions/tree/master/Housing-Prices-Competition)
 
 ## Purpose
