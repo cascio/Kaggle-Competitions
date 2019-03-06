@@ -4,6 +4,7 @@ An archival repository for Kaggle competition submissions created by [Michael Ca
 
 ## Submissions
 - [Ames, Iowa Housing Price Prediction Competition](https://github.com/cascio/Kaggle-Competitions/tree/master/Housing-Prices-Competition)
+- [LANL Earthquake Prediction Competition](https://github.com/cascio/Kaggle-Competitions/tree/master/LANL-Earthquake-Prediction)
 
 ## Purpose
 To record previous Kaggle competition submissions including original training and test csv files, jupyter notebooks containing exploratory data analysis, model training, validation, and prediction, and the final deliverable submission csv.
