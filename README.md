@@ -3,7 +3,7 @@
 An archival repository for Kaggle competition submissions created by [Michael Cascio](https://www.kaggle.com/cascio).
 
 ## Submissions
-- [Ames, Iowa Housing Price Prediction Competition](https://github.com/cascio/Kaggle-Competitions/tree/master/Housing-Prices-Competition)
+- [Ames, Iowa Housing Price Prediction Competition](Housing-Prices-Competition/Ames%2C%20Iowa%20Home%20Price%20Prediction.ipynb)
 - [LANL Earthquake Prediction Competition](https://github.com/cascio/Kaggle-Competitions/tree/master/LANL-Earthquake-Prediction)
 
 ## Purpose
