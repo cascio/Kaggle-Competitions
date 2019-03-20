@@ -17,7 +17,7 @@ series_id,surface
 15,wood
 16,concrete
 17,soft_tiles
-18,fine_concrete
+18,wood
 19,fine_concrete
 20,soft_pvc
 21,fine_concrete
@@ -40,7 +40,7 @@ series_id,surface
 38,wood
 39,soft_pvc
 40,carpet
-41,soft_pvc
+41,wood
 42,soft_pvc
 43,wood
 44,soft_pvc
@@ -127,7 +127,7 @@ series_id,surface
 125,tiled
 126,tiled
 127,wood
-128,soft_pvc
+128,fine_concrete
 129,concrete
 130,soft_tiles
 131,wood
@@ -199,7 +199,7 @@ series_id,surface
 197,soft_tiles
 198,concrete
 199,soft_pvc
-200,hard_tiles_large_space
+200,concrete
 201,soft_pvc
 202,soft_tiles
 203,hard_tiles_large_space
@@ -254,7 +254,7 @@ series_id,surface
 252,wood
 253,concrete
 254,concrete
-255,soft_pvc
+255,soft_tiles
 256,fine_concrete
 257,soft_pvc
 258,fine_concrete
@@ -382,7 +382,7 @@ series_id,surface
 380,carpet
 381,soft_tiles
 382,wood
-383,hard_tiles_large_space
+383,wood
 384,fine_concrete
 385,concrete
 386,carpet
@@ -602,7 +602,7 @@ series_id,surface
 600,concrete
 601,carpet
 602,soft_pvc
-603,soft_pvc
+603,soft_tiles
 604,wood
 605,hard_tiles_large_space
 606,soft_tiles
@@ -691,7 +691,7 @@ series_id,surface
 689,wood
 690,tiled
 691,soft_pvc
-692,soft_tiles
+692,wood
 693,wood
 694,wood
 695,soft_tiles
@@ -854,7 +854,7 @@ series_id,surface
 852,concrete
 853,concrete
 854,concrete
-855,concrete
+855,tiled
 856,carpet
 857,wood
 858,soft_pvc
@@ -1096,7 +1096,7 @@ series_id,surface
 1094,hard_tiles_large_space
 1095,tiled
 1096,wood
-1097,concrete
+1097,soft_pvc
 1098,wood
 1099,concrete
 1100,soft_pvc
@@ -1155,7 +1155,7 @@ series_id,surface
 1153,soft_tiles
 1154,soft_pvc
 1155,concrete
-1156,soft_pvc
+1156,fine_concrete
 1157,tiled
 1158,concrete
 1159,soft_pvc
@@ -1198,7 +1198,7 @@ series_id,surface
 1196,fine_concrete
 1197,concrete
 1198,wood
-1199,wood
+1199,soft_pvc
 1200,tiled
 1201,concrete
 1202,fine_concrete
@@ -1282,7 +1282,7 @@ series_id,surface
 1280,concrete
 1281,tiled
 1282,concrete
-1283,soft_pvc
+1283,fine_concrete
 1284,soft_pvc
 1285,concrete
 1286,tiled
@@ -1489,7 +1489,7 @@ series_id,surface
 1487,tiled
 1488,tiled
 1489,wood
-1490,wood
+1490,soft_tiles
 1491,wood
 1492,fine_concrete
 1493,wood
@@ -1567,7 +1567,7 @@ series_id,surface
 1565,concrete
 1566,wood
 1567,hard_tiles_large_space
-1568,soft_tiles
+1568,hard_tiles_large_space
 1569,soft_pvc
 1570,concrete
 1571,concrete
@@ -1696,7 +1696,7 @@ series_id,surface
 1694,wood
 1695,soft_pvc
 1696,wood
-1697,fine_concrete
+1697,soft_pvc
 1698,hard_tiles_large_space
 1699,soft_pvc
 1700,concrete
@@ -1889,7 +1889,7 @@ series_id,surface
 1887,hard_tiles_large_space
 1888,soft_pvc
 1889,concrete
-1890,carpet
+1890,concrete
 1891,fine_concrete
 1892,tiled
 1893,soft_tiles
@@ -2083,7 +2083,7 @@ series_id,surface
 2081,soft_tiles
 2082,wood
 2083,concrete
-2084,tiled
+2084,concrete
 2085,concrete
 2086,soft_tiles
 2087,wood
@@ -2525,7 +2525,7 @@ series_id,surface
 2523,wood
 2524,soft_pvc
 2525,fine_concrete
-2526,wood
+2526,soft_pvc
 2527,hard_tiles_large_space
 2528,wood
 2529,soft_pvc
@@ -2698,7 +2698,7 @@ series_id,surface
 2696,tiled
 2697,hard_tiles_large_space
 2698,fine_concrete
-2699,soft_pvc
+2699,carpet
 2700,tiled
 2701,fine_concrete
 2702,carpet
@@ -2752,7 +2752,7 @@ series_id,surface
 2750,soft_pvc
 2751,wood
 2752,concrete
-2753,wood
+2753,soft_pvc
 2754,concrete
 2755,carpet
 2756,tiled
@@ -2807,7 +2807,7 @@ series_id,surface
 2805,concrete
 2806,concrete
 2807,concrete
-2808,tiled
+2808,wood
 2809,soft_pvc
 2810,carpet
 2811,concrete
@@ -2837,7 +2837,7 @@ series_id,surface
 2835,soft_pvc
 2836,soft_tiles
 2837,soft_pvc
-2838,carpet
+2838,soft_tiles
 2839,soft_pvc
 2840,wood
 2841,soft_pvc
@@ -2869,7 +2869,7 @@ series_id,surface
 2867,tiled
 2868,soft_pvc
 2869,wood
-2870,soft_pvc
+2870,fine_concrete
 2871,concrete
 2872,concrete
 2873,concrete
@@ -3163,7 +3163,7 @@ series_id,surface
 3161,fine_concrete
 3162,concrete
 3163,fine_concrete
-3164,soft_pvc
+3164,fine_concrete
 3165,concrete
 3166,soft_tiles
 3167,soft_tiles
@@ -3261,7 +3261,7 @@ series_id,surface
 3259,wood
 3260,wood
 3261,concrete
-3262,concrete
+3262,wood
 3263,concrete
 3264,wood
 3265,wood
@@ -3306,7 +3306,7 @@ series_id,surface
 3304,tiled
 3305,fine_concrete
 3306,concrete
-3307,concrete
+3307,wood
 3308,wood
 3309,tiled
 3310,soft_tiles
@@ -3355,7 +3355,7 @@ series_id,surface
 3353,soft_pvc
 3354,soft_pvc
 3355,soft_pvc
-3356,soft_pvc
+3356,hard_tiles_large_space
 3357,soft_tiles
 3358,hard_tiles_large_space
 3359,concrete
@@ -3442,7 +3442,7 @@ series_id,surface
 3440,soft_tiles
 3441,wood
 3442,wood
-3443,wood
+3443,soft_pvc
 3444,tiled
 3445,soft_pvc
 3446,wood
@@ -3730,7 +3730,7 @@ series_id,surface
 3728,soft_tiles
 3729,soft_tiles
 3730,soft_pvc
-3731,soft_pvc
+3731,fine_concrete
 3732,tiled
 3733,soft_pvc
 3734,concrete
